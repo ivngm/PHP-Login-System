@@ -19,7 +19,7 @@
 		// Return the proper information back to JavaScrit to redirect us.
 
 		$return['redirect'] = '/dashboard.php';
-		$return['name'] = "Kalob Taulien";
+		$return['name'] = "Ivan Garcia";
 
 		echo json_encode($return, JSON_PRETTY_PRINT); exit;
 	} else {
