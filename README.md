@@ -1,2 +1,2 @@
 # PHP-Login-System
-A simple login system with user registration
+A sample login system with user registration
